@@ -1,2 +1,3 @@
 # volve-machine-learning
-Exploration of machine learning in the Volve field dataset 
+
+P and S-sonic log prediction from geophysical logs using machine learning in Volve's field dataset
