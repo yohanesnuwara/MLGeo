@@ -10,5 +10,19 @@ This repository is my exploration on bringing machine learning to Volve oil fiel
 
 ## P-sonic (DT) log prediction in well 15/9-F-11B and 15/9-F-1C
 
-Regressors in *Scikit-Learn* used are: Linear Regression, Random Forest, Support Vector Machine, Decision Tree, Gradient Boosting, and K-Nearest Neighbors
-The best regressor performance achieved is Gradient Boosting. 
+**Background:** Two wells (well 15/9-F-11B and 15/9-F-1C) don't have P-sonic log. 
+
+**Workflow:**
+
+* Well 15/9-F-11A, 15/9-F-11A, and 15/9-F-1B are used as training data.
+* The training data are normalized using Yeo-Johnson method of power transformation, and outliers have been removed using One-Class SVM method.
+* Regressors in *Scikit-Learn* used are: Linear Regression, Random Forest, Support Vector Machine, Decision Tree, Gradient Boosting, and K-Nearest Neighbors.
+* Best performance achieved by Gradient Boosting.
+* Hyperparameter tuning showed the best hyperparameter of GB as follows; `n_estimators`=1,000 and `max_depth`=100
+* Average R² and RMSE score achieved are .95 and .12 
+
+**Result:**
+
+The predicted results are written in CSV files; well [15/9-F-11B]() and [15/9-F-1]()
+
+
