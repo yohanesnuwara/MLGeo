@@ -4,7 +4,7 @@ This repository is my exploration on bringing machine learning to Volve oil fiel
 
 #### Machine learning projects (current and upcoming):
 
-* [P-sonic (DT) log prediction in well 15/9-F-11B and 15/9-F-1C]()
+* [P-sonic (DT) log prediction in well 15/9-F-11B and 15/9-F-1C](https://github.com/yohanesnuwara/volve-machine-learning/blob/main/README.md#p-sonic-dt-log-prediction-in-well-159-f-11b-and-159-f-1c)
 * S-sonic (DTS) log imputation 
 * Unsupervised classification for facies typing
 
@@ -23,6 +23,6 @@ This repository is my exploration on bringing machine learning to Volve oil fiel
 
 **Result:**
 
-The predicted results are written in CSV files; well [15/9-F-11B]() and [15/9-F-1]()
+The predicted results are written in CSV files; well [15/9-F-11B](https://github.com/yohanesnuwara/volve-machine-learning/blob/main/results/15_9-F-11B_Predicted_DT.csv) and [15/9-F-1](https://github.com/yohanesnuwara/volve-machine-learning/blob/main/results/15_9-F-1C_Predicted_DT.csv)
 
 
