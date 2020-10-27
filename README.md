@@ -8,7 +8,7 @@ This repository is my exploration on bringing machine learning to Volve oil fiel
 * S-sonic (DTS) log imputation 
 * Unsupervised classification for facies typing
 
-## P-sonic (DT) log prediction in well 15/9-F-11B and 15/9-F-1C ([Notebook]())
+## P-sonic (DT) log prediction in well 15/9-F-11B and 15/9-F-1C ([Notebook](https://github.com/yohanesnuwara/volve-machine-learning/blob/main/notebook/volve_p_sonic_prediction_final.ipynb))
 
 > I was glad to be invited by NEUSTRA community in collaboration w/ SPE Alexandria University in Egypt in October 29, 2020, where I shared this work and presented a demo. You can see the notebook [here]() as a shortened version from the above notebook, also find along the data [here]()
 
