@@ -4,11 +4,6 @@ This repository is my exploration on bringing machine learning to Volve oil fiel
 
 #### Machine learning projects (current and upcoming):
 
-* [P-sonic (DT) acoustic log prediction in well 15/9-F-11B and 15/9-F-1C](https://github.com/yohanesnuwara/volve-machine-learning/blob/main/README.md#p-sonic-dt-log-prediction-in-well-159-f-11b-and-159-f-1c)
-* Supervised classification using trained 233 wells from the North Sea
-* S-sonic (DTS) elastic log prediction 
-* Unsupervised classification for facies typing
-
 ## P-sonic (DT) log prediction in well 15/9-F-11B and 15/9-F-1C ([Notebook](https://github.com/yohanesnuwara/volve-machine-learning/blob/main/notebook/volve_p_sonic_prediction_final.ipynb))
 
 > I was glad to be invited by NEUSTRA community in collaboration w/ SPE Alexandria University in Egypt in October 29, 2020, where I shared this work and presented a demo. You can see the notebook [here](https://github.com/yohanesnuwara/volve-machine-learning/blob/main/notebook/demo_volve_soniclog_prediction.ipynb) as a shortened version from the original notebook above.
@@ -30,4 +25,4 @@ The predicted results are written in CSV files; well [15/9-F-11B](https://github
 
 ![final-well2](https://user-images.githubusercontent.com/51282928/96087823-aea53500-0eee-11eb-869f-594ff579d528.png)
 
-## Supervised classification using trained 233 wells from the North Sea
+## Lithology prediction from drilling data
