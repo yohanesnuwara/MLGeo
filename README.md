@@ -2,8 +2,6 @@
 
 This repository is my exploration on bringing machine learning to Volve oil field open dataset disclosed by Equinor since 2018. For more information about this dataset and how to access the original database, see [here](https://www.equinor.com/en/how-and-why/digitalisation-in-our-dna/volve-field-data-village-download.html).
 
-#### Machine learning projects (current and upcoming):
-
 ## P-sonic (DT) log prediction in well 15/9-F-11B and 15/9-F-1C ([Notebook](https://github.com/yohanesnuwara/volve-machine-learning/blob/main/notebook/volve_p_sonic_prediction_final.ipynb))
 
 > I was glad to be invited by NEUSTRA community in collaboration w/ SPE Alexandria University in Egypt in October 29, 2020, where I shared this work and presented a demo. You can see the notebook [here](https://github.com/yohanesnuwara/volve-machine-learning/blob/main/notebook/demo_volve_soniclog_prediction.ipynb) as a shortened version from the original notebook above.
