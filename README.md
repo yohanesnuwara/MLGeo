@@ -1,4 +1,4 @@
-# volve-machine-learning
+# MLGeo
 
 This repository is my exploration on bringing machine learning to Volve oil field open dataset disclosed by Equinor since 2018. For more information about this dataset and how to access the original database, see [here](https://www.equinor.com/en/how-and-why/digitalisation-in-our-dna/volve-field-data-village-download.html).
 
